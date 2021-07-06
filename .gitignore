@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+MergeServer/test.wav
+MergeServer/test2.wav
+MergeServer/.idea/
+MergeServer/venv/
